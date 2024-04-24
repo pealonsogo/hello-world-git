@@ -1,3 +1,6 @@
+# ejemplo curso 
+v1.2.2
+
 # CABECERAS
 # cabecera h1
 ## cabecera h2
